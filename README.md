@@ -1,1 +1,1 @@
-# CAT_Project_padiigandi
+# CAT_Project_padiigandi  This project was meant to create a platform for an authour, AmameaJunior, to keep his fans updated on what he is working on. Also offers a socializing platform for him and the fans.
